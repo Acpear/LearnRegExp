@@ -22,5 +22,6 @@
 
 **A**: Here is the right place to start! The following is a catalog!
 
-1. [a easy start](./a_easy_start.md)
+1. [an easy start](./an_easy_start.md)
 2. [repeat](./repeat.md)
+3. [numbers & letters](./number_&_letter.md)

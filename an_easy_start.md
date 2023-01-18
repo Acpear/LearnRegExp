@@ -1,8 +1,8 @@
-# A Easy Start
+# An Easy Start
 
 Go to main page: [Click to main!](./README.md)
 
-Go to next page: [Click to next!](./repeate.md)
+Go to next page: [Click to next!](./repeat.md)
 
 ## Introduction
 
@@ -117,4 +117,4 @@ Story continues...
 
 Regexp is case sensitive, defaultly.
 
-Go to next page: [Click to next!](./repeate.md)
+Go to next page: [Click to next!](./repeat.md)

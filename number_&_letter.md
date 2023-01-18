@@ -2,4 +2,4 @@
 
 Go to main page: [Click to main!](./README.md)
 
-Go to next page: [Click to next!](./repeat.md)
+Go to prev page: [Click to prev!](./repeat.md)
